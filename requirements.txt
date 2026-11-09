@@ -1,0 +1,31 @@
+# Web 框架
+fastapi
+uvicorn[standard]
+python-multipart
+
+# 数据模型与配置
+pydantic
+pydantic-settings
+python-dotenv
+
+# 文档解析
+pypdfium2
+python-docx
+markdown
+beautifulsoup4
+lxml
+
+# 文本处理
+jieba
+
+# 向量与 Embedding
+chromadb
+sentence-transformers
+huggingface-hub
+
+# LLM 调用
+httpx
+requests
+
+# 前端（阶段6用到）
+streamlit

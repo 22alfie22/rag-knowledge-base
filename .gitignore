@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# 虚拟环境
+.venv/
+venv/
+ENV/
+env/
+
+# 环境变量与密钥
+.env
+*.env
+!.env.example
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 向量库数据（本地调试/演示可能产生）
+chroma/
+chroma_db/
+data/chroma/
+.json_cache/
+*.sqlite
+*.db
+
+# 上传文件与临时数据
+uploads/
+temp/
+tmp/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
